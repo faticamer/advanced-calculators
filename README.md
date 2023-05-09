@@ -9,7 +9,7 @@ Each operation only applies to maximum of 2 numbers, with an exception of square
 
 Scripts are tolerant on wrong inputs, meaning that the program will not stop running until right input is detected. This applies to both operations and numbers. 
 
-When first operation is performed, the program will not ask user for new operation/number. Instead, program will wait for an input which can be both operation or a number, and then proceed with an execution. Wrong input tolerance is implemented in this part as well.
+When first operation is performed, the program will not ask user for new operation/number. Instead, program will wait for an input, that can be both operation or a number, and then proceed with an execution. Wrong input tolerance is implemented in this part as well.
 
 Added feature to save the result. Added functionality of selecting any saved result, where user can continue performing operations on a selected number.
 
