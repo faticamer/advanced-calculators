@@ -14,7 +14,7 @@ When first operation is performed, the program will not ask user for new operati
 Added feature to save the result. Added functionality of selecting any saved result, where user can continue performing operations on a selected number.
 
 Hotkeys:
-M - Add a result to a list
-P - Show all saved elements in the list
-Rn - Select a number, where n is a positive integer that corresponds to an index in a list
-Q - Terminate the program
+- M : Add a result to a list
+- P : Show all saved elements in the list
+- Rn : Select a number, where n is a positive integer that corresponds to an index in a list
+- Q : Terminate the program
